@@ -1,1 +1,1 @@
-# covid10_SouthKorea
+# covid19_SouthKorea
